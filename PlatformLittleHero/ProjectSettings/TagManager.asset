@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CameraShake
+  - Tips
+  - DialogBox
+  - DialogText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ladder
+  - Item
+  - ItemTrigger
+  - Player
+  - Enemy
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2300837417
+    locked: 0
+  - name: Ground
+    uniqueID: 4009335847
+    locked: 0
+  - name: Player
+    uniqueID: 4172980767
+    locked: 0
+  - name: Enemy
+    uniqueID: 43306233
+    locked: 0
+  - name: Weapon
+    uniqueID: 4257030013
+    locked: 0
+  - name: Special
+    uniqueID: 2781586385
+    locked: 0
